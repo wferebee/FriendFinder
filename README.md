@@ -1,7 +1,7 @@
 # FriendFinder 
 
 ## Deployed Link
-* https://dashboard.heroku.com/apps/frozen-cove-35114/settings
+* https://frozen-cove-35114.herokuapp.com/
 
  
 
