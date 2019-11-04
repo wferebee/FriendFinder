@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: white;
+    background-image: url("images/space3.jpg");
+    background-size: cover;
+    color: rgb(73, 250, 3);
+    height: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+#header{
+    font-size: 100px;
+}
+
+#header2{
+    font-size: 20px;
+    color: rgb(248, 4, 4);
+}
+
+.text-center{
+    position: relative;
+    top:100px;
+}
+
+.btn-success {
+    color:black;
+    background-color:rgb(73, 250, 3);
+    border-color: rgb(73, 250, 3);
+    border-style: solid;
+    border-width:5px;
+    border-color: rgb(248, 4, 4);
+}
+
+footer{
+    position: relative;
+    top:  200px;
+    color: rgb(217, 255, 0);
+}
+
+.modal-header, .modal-footer{
+    background-image: url("images/space4.jpg");
+}
+
+.modal-body{
+    background-color: black;
+}
+
+
