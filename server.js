@@ -5,7 +5,7 @@ var path = require("path"); // is this part even necessary? just included it bec
 
 var app = express();
 
-var PORT = process.env.PORT || 31415; // :)
+var PORT = process.env.PORT || 3000; // was 31415 but didnt know if it would work once deployed to Heroku
 
 
 app.use(express.static(__dirname + "/app/css")); // learned this from class, needed this to use a .css doc
