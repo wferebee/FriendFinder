@@ -10,7 +10,13 @@
 
 * This app is Science themed, and although anyone can use it, the app comes preloaded with a few of our science friends from the past to be matched with. 
 
-![Screenshot (18)](https://user-images.githubusercontent.com/53095806/68163028-7bf56d00-ff27-11e9-87fb-fe275a463cbf.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/53095806/68163119-c7a81680-ff27-11e9-9f31-4a80bf648830.png)
+
+
+![Screenshot (23)](https://user-images.githubusercontent.com/53095806/68163137-d262ab80-ff27-11e9-8ab7-4a8894807b37.png)
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/53095806/68163145-dabae680-ff27-11e9-89d4-69e075d999db.png)
    
 
 ### How it works 
